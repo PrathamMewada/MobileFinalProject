@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Travel style labels -->
+    <string name="travel_style_budget">Budget</string>
+    <string name="travel_style_mid_range">Mid-range</string>
+    <string name="travel_style_luxury">Luxury</string>
+</resources>

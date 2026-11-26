@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Vagabond</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_home">Home</string>
+
+    <!-- Floating action button -->
+    <string name="fab_new_trip">New Trip</string>
+
+    <!-- Screen titles -->
+    <string name="title_home">Home</string>
+
+    <!-- Common -->
+    <string name="action_back">Back</string>
+    <string name="placeholder_message">This screen will be built in a later issue.</string>
+
+    <!-- Splash -->
+    <string name="splash_tagline">Plan smarter. Travel further.</string>
+    <string name="splash_logo_description">Vagabond logo</string>
+
+    <!-- Home -->
+    <string name="home_greeting_morning">Good morning</string>
+    <string name="home_greeting_afternoon">Good afternoon</string>
+    <string name="home_greeting_evening">Good evening</string>
+    <string name="home_title">Where to next?</string>
+    <string name="home_notifications">Notifications</string>
+    <string name="home_search_hint">Search a city in Ontario</string>
+    <string name="home_upcoming_trip">UPCOMING TRIP</string>
+    <string name="home_days_until">in %1$d days</string>
+    <string name="home_today">Today</string>
+    <string name="home_budget">Budget</string>
+    <string name="home_budget_amount">$%1$d of $%2$d</string>
+    <string name="home_no_upcoming_trip">No upcoming trips yet. Tap \"New Trip\" to plan one.</string>
+    <string name="home_offer_title">Student deals</string>
+    <string name="home_offer_description">15% off attraction passes and museum tickets</string>
+    <string name="home_offer_action">View</string>
+    <string name="home_popular_cities">Popular cities</string>
+    <string name="home_suggested_places">Suggested places</string>
+    <string name="home_see_all">See all</string>
+</resources>
